@@ -1,0 +1,98 @@
+Name,Sex,Father,Mother,Captured,Death,Cause,Current/Death Location,Other Name,Capture/Birth
+Katina,f,,,Iceland,n,,Orlando,,1978
+Nalani,f,Taku,Katina,,n,,Orlando,,2006
+Malia,f,Tilikum,Taima,,n,,Orlando,,2007
+Trua,m,Taku,Takara,,n,,Orlando,,2005
+Makaio,m,Tilikum,Katina,,n,,Orlando,,2010
+Gudrun,f,,,Iceland,y,Labor Complications,Orlando,,1976
+Gudrun-Stillborn1996,f,Tilikum,Gudrun,,y,Died With Mother,Orlando,,1996
+Tilikum,m,,,Iceland,y,Bacterial Pneumonia,Orlando,,1983
+Taima,f,Kanduke,Gudrun,,y,Labor Complications,Orlando,,1989
+Taima-Stillborn2010,,Tilikum,Taima,,y,Died With Mother,Orlando,,2010
+Kanduke,m,,,Canada,y,St. Louis Encephalitis,Orlando,,1975
+Nyar,f,Tilikum,Gudrun,,y,Immune System Failure,Orlando,,1993
+Kona2,f,,,Iceland,y,Lung Absess,Orlando,,1987
+Kona2-Fetus1987,,Kanduke,Kona2,,y,Died With Mother,Orlando,,1987
+Ramu,m,,,USA,y,,Orlando,,1967
+Kalina,f,Winston,Katina,,y,Bacteremia Septicemia,Orlando,,1985
+Kayla,f,Orky2,Kenau,,y,Lung Disease,Orlando,,1988
+Sumar,m,Tilikum,Taima,,y,Gastric Tortion,Orlando,,1998
+Kenau,f,,,Iceland,y,Pneumonia,Orlando,,1976
+Kamea,f,Kshamenk,Takara,,n,,"San Antonio ",,2013
+Kyuquot,m,Tilikum,Haida2,,n,,"San Antonio ",,1991
+Tuar,m,Tilikum,Katina,,n,,"San Antonio ",,1999
+Sakari,f,Tilikum,Takara,,n,,"San Antonio ",,2010
+Takara,f,Kotar,Kasatka,,n,,"San Antonio ",,1991
+Taku,m,Tilikum,Katina,,y,Pneumonia,"San Antonio ",,1993
+Unna,f,Tilikum,Katina,,y,Systemic Bacterial Infection,"San Antonio ",,1996
+Unna-stillborn2006,f,Keet,Unna,,y,Stillborn,"San Antonio ",,2006
+Samoa,f,,,Iceland,y,Labor Complications,"San Antonio ",,1983
+Samoa-stillborn1992,f,Kotar,Samoa,,y,Stillborn,"San Antonio ",,1992
+Katerina,f,Kanduke,Katina,,y,Bacterial Pneumonia,"San Antonio ",,1988
+Kotar,m,,,Iceland,y,Broken Skull,"San Antonio ",,1978
+Halyn,f,Keet,Kayla,,y,Encephalitis,"San Antonio ",,2005
+Kyara,f,Kyuquot,Takara,,y,Pnemonia,"San Antonio ",,2017
+Haida2,f,,,Iceland,y,Brain Abscess,"San Antonio ",,1982
+Haida2-calf1994,f,Kotar,Haida2,,y,Pneumonia,"San Antonio ",,1994
+Haida2-fetus2001,m,Tilikum,Haida2,,y,Died With Mother,"San Antonio ",,2001
+Kshamenk,m,,,Argentina,n,,Mundo Marin - Argentina,,1992
+Belen,f,,,Argentina,y,,Mundo Marin - Argentina,,1988
+Belen-stillborn1998,,Kshamenk,Belen,,y,Stillborn,Mundo Marin - Argentina,,1998
+Belen-fetus1998,,Kshamenk,Belen,,y,Fetus,Mundo Marin - Argentina,,1998
+Corky2,f,,,Canada,n,,San Diego,,1969
+Ikaika,m,Tilikum,Katina,,n,,San Diego,,2002
+Kalia,f,Keet,Kasatka,,n,,San Diego,,2004
+Keet,m,Kotar,Kalina,,n,,San Diego,,2004
+Makani,m,Kshamenk,Kasatka,,n,,San Diego,,2013
+Orkid,f,Orky2,Kandu5,,n,,San Diego,,1988
+Shouka,f,Kim2,Sharkane,,n,,San Diego,,1993
+Ulises,m,,,Iceland,n,,San Diego,,1980
+Kasatka,f,,,Iceland,y,Respiratory Disease,San Diego,,1978
+Winston,m,,,USA,y,Chronic Cardiovascular Failure,San Diego,Ramu3,1970
+Orky2,m,,,Canada,y,Pneumonia,San Diego,,1968
+Kandu5,f,,,Iceland,y,Hemorrhaging,San Diego,,1977
+Kandu5-stillborn1986,,Winston,Kandu5,,y,Stillborn,San Diego,,1986
+Nootka,f,,,Iceland,y,,San Diego,,1970
+Amaya,f,Ulises,Kalia,,y,Gastro-Intestinal Disease,San Diego,,2014
+Nakai,m,Tilikum,Kasatka,,y,Lung Disease,San Diego,,2001
+Shamu,f,,,USA,y,Septicemia/Pyometra,San Diego,,1965
+Shamu-fetus1971,,Ramu,Shamu,,y,Stillborn,San Diego,,1971
+Kona,m,,,USA,y,Septicemia,San Diego,,1971
+BabyShamu2,f,Winston,Kenau,,y,Heart Defect/Respiratory Virus,San Diego,,1986
+Tekoa,m,Tilikum,Taima,,n,,Loro Parque - Spain,,2000
+Adán,m,Keto,Kohana,,n,,Loro Parque - Spain,,2010
+Keto,m,Kotar,Kalina,,n,,Loro Parque - Spain,,1995
+Morgan,f,,,Netherlands,n,,Loro Parque - Spain,,2010
+Skyla,f,Tilikum,Kalina,,y,"Gastric Torsion, Septicemia",Loro Parque - Spain,,2004
+Kohana,f,Tilikum,Takara,,y,Cardiac Malformation,Loro Parque - Spain,,2002
+Victoria,f,Keto,Kohana,,y,Intestinal Issues,Loro Parque - Spain,Vicky,2012
+Ula,f,Keto,Morgan,,y,"Intestinal Torsion, Septicemia",Loro Parque - Spain,,2018
+Moana,m,Ulises,Wikie,,n,,Marineland Antibes - France,,2011
+Wikie,f,Kim2,Sharkane,,n,,Marineland Antibes - France,,2001
+Keijo,m,Valentin,Wikie,,n,,Marineland Antibes - France,,2013
+Inouk,m,Kim2,Sharkane,,n,,Marineland Antibes - France,,1999
+Sharkane,f,,,Iceland,y,Bacillus Pyocyanique,Marineland Antibes - France,,1989
+Kim2,m,,,Iceland,y,Pneumonia,Marineland Antibes - France,,1982
+"Betty ",f,,,Iceland,y,,Marineland Antibes - France,,1978
+Freya,f,,,Iceland,y,,Marineland Antibes - France,,1982
+Freya-stillborn1991,,Kim2,Freya,,y,,Marineland Antibes - France,,1991
+Freya-stillborn1993,,Kim2,Freya,,y,,Marineland Antibes - France,,1993
+Freya-stillborn2001,,Kim2,Freya,,y,,Marineland Antibes - France,,2001
+Freya-stillborn2003,,Kim2,Freya,,y,,Marineland Antibes - France,,2003
+Valentin,m,Kim2,Freya,,y,Twisted Intestines,Marineland Antibes - France,,1996
+Kiska,f,,,Iceland,n,,Marineland - Canada,,1979
+Kiska-calf1992,m,Kandu7,Kiska,,y,,Marineland - Canada,,1992
+Kanuck,m,Kandu7,Kiska,,y,Traumatic Shock,Marineland - Canada,,1994
+Nova,m,Kandu7,Kiska,,y,Pneumonia,Marineland - Canada,,1996
+Hudson,m,Kandu7,Kiska,,y,Meningitis,Marineland - Canada,,1998
+Athena,f,Kandu7,Kiska,,y,,Marineland - Canada,,2004
+Kandu7,m,,,Iceland,y,,Marineland - Canada,,1984
+Kandu2,m,,,USA,y,Pneumonia,Marineland - Canada,,1971
+Splash,,Kandu7,Nootka5,,y,Gastrointestinal Perforation,Marineland - Canada,Katak,1989
+Nootka5,f,,,Iceland,y,,Marineland - Canada,,1981
+April,f,Kandu7,Nootka5,,y,Malnutrition (Failing to Nurse),Marineland - Canada,,2004
+Algonquin,m,Kandu7,Nootka5,,y,Twisted Intestines,Marineland - Canada,,1999
+Neocia,f,Kandu7,Nootka5,,y,,Marineland - Canada,,2004
+Neocia-miscarriage2004,,Kandu7,Neocia,,y,Stillborn,Marineland - Canada,,2004
+Spooky,m,Orky2,Corky2,,y,Pneumonia,Marineland California,,1978
+Kiva,f,Orky2,Corky2,,y,Respiratory Failure,Marineland California,,1982

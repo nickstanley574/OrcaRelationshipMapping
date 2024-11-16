@@ -1,0 +1,287 @@
+graph {
+	fontname="Helvetica,Arial,sans-serif" nodesep=0.3 ranksep="1.85 equally" splines=polyline
+	Shamu [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Ramu [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Orky2 [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Corky2 [color=red fillcolor=pink fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Nootka [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Winston [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	ShamuRamu [penwidth=6 shape=point]
+	Ramu -- ShamuRamu
+	Shamu -- ShamuRamu
+	ShamuRamu -- fetus1971
+	fetus1971 [color=black fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Kona [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Kandu2 [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Kanduke [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Gudrun [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Kenau [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Kandu5 [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Katina [color=red fillcolor=pink fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Kasatka [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Betty [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Kotar [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Corky2Orky2 [penwidth=6 shape=point]
+	Orky2 -- Corky2Orky2
+	Corky2 -- Corky2Orky2
+	Corky2Orky2 -- Spooky
+	Spooky [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Kiska [color=red fillcolor=pink fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Ulises [color=blue fillcolor=lightblue fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Nootka5 [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Haida2 [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Freya [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Corky2Orky2 -- Kiva
+	Kiva [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Kim2 [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Samoa [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Tilikum [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Kandu7 [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KatinaWinston [penwidth=6 shape=point]
+	Winston -- KatinaWinston
+	Katina -- KatinaWinston
+	KatinaWinston -- Kalina
+	Kalina [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Kandu5Winston [penwidth=6 shape=point]
+	Winston -- Kandu5Winston
+	Kandu5 -- Kandu5Winston
+	Kandu5Winston -- stillborn1986
+	stillborn1986 [color=black fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KenauWinston [penwidth=6 shape=point]
+	Winston -- KenauWinston
+	Kenau -- KenauWinston
+	KenauWinston -- BabyShamu2
+	BabyShamu2 [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Kona2Kanduke [penwidth=6 shape=point]
+	Kanduke -- Kona2Kanduke
+	Kona2 -- Kona2Kanduke
+	Kona2Kanduke -- Fetus1987
+	Fetus1987 [color=black fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Kona2 [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KenauOrky2 [penwidth=6 shape=point]
+	Orky2 -- KenauOrky2
+	Kenau -- KenauOrky2
+	KenauOrky2 -- Kayla
+	Kayla [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KatinaKanduke [penwidth=6 shape=point]
+	Kanduke -- KatinaKanduke
+	Katina -- KatinaKanduke
+	KatinaKanduke -- Katerina
+	Katerina [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Belen [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Kandu5Orky2 [penwidth=6 shape=point]
+	Orky2 -- Kandu5Orky2
+	Kandu5 -- Kandu5Orky2
+	Kandu5Orky2 -- Orkid
+	Orkid [color=red fillcolor=pink fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Nootka5Kandu7 [penwidth=6 shape=point]
+	Kandu7 -- Nootka5Kandu7
+	Nootka5 -- Nootka5Kandu7
+	Nootka5Kandu7 -- Splash
+	Splash [color=black fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	GudrunKanduke [penwidth=6 shape=point]
+	Kanduke -- GudrunKanduke
+	Gudrun -- GudrunKanduke
+	GudrunKanduke -- Taima
+	Taima [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Sharkane [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	FreyaKim2 [penwidth=6 shape=point]
+	Kim2 -- FreyaKim2
+	Freya -- FreyaKim2
+	FreyaKim2 -- stillborn1991
+	stillborn1991 [color=black fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KasatkaKotar [penwidth=6 shape=point]
+	Kotar -- KasatkaKotar
+	Kasatka -- KasatkaKotar
+	KasatkaKotar -- Takara
+	Takara [color=red fillcolor=pink fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Haida2Tilikum [penwidth=6 shape=point]
+	Tilikum -- Haida2Tilikum
+	Haida2 -- Haida2Tilikum
+	Haida2Tilikum -- Kyuquot
+	Kyuquot [color=blue fillcolor=lightblue fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	SamoaKotar [penwidth=6 shape=point]
+	Kotar -- SamoaKotar
+	Samoa -- SamoaKotar
+	SamoaKotar -- stillborn1992
+	stillborn1992 [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Kshamenk [color=blue fillcolor=lightblue fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KiskaKandu7 [penwidth=6 shape=point]
+	Kandu7 -- KiskaKandu7
+	Kiska -- KiskaKandu7
+	KiskaKandu7 -- calf1992
+	calf1992 [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	FreyaKim2 -- stillborn1993
+	stillborn1993 [color=black fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	GudrunTilikum [penwidth=6 shape=point]
+	Tilikum -- GudrunTilikum
+	Gudrun -- GudrunTilikum
+	GudrunTilikum -- Nyar
+	Nyar [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	SharkaneKim2 [penwidth=6 shape=point]
+	Kim2 -- SharkaneKim2
+	Sharkane -- SharkaneKim2
+	SharkaneKim2 -- Shouka
+	Shouka [color=red fillcolor=pink fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KatinaTilikum [penwidth=6 shape=point]
+	Tilikum -- KatinaTilikum
+	Katina -- KatinaTilikum
+	KatinaTilikum -- Taku
+	Taku [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Haida2Kotar [penwidth=6 shape=point]
+	Kotar -- Haida2Kotar
+	Haida2 -- Haida2Kotar
+	Haida2Kotar -- calf1994
+	calf1994 [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KiskaKandu7 -- Kanuck
+	Kanuck [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KalinaKotar [penwidth=6 shape=point]
+	Kotar -- KalinaKotar
+	Kalina -- KalinaKotar
+	KalinaKotar -- Keto
+	Keto [color=blue fillcolor=lightblue fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	GudrunTilikum -- Stillborn1996
+	Stillborn1996 [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KatinaTilikum -- Unna
+	Unna [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	FreyaKim2 -- Valentin
+	Valentin [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KiskaKandu7 -- Nova
+	Nova [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	BelenKshamenk [penwidth=6 shape=point]
+	Kshamenk -- BelenKshamenk
+	Belen -- BelenKshamenk
+	BelenKshamenk -- stillborn1998
+	stillborn1998 [color=black fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	BelenKshamenk -- fetus1998
+	fetus1998 [color=black fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	TaimaTilikum [penwidth=6 shape=point]
+	Tilikum -- TaimaTilikum
+	Taima -- TaimaTilikum
+	TaimaTilikum -- Sumar
+	Sumar [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KiskaKandu7 -- Hudson
+	Hudson [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KatinaTilikum -- Tuar
+	Tuar [color=blue fillcolor=lightblue fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	SharkaneKim2 -- Inouk
+	Inouk [color=blue fillcolor=lightblue fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Nootka5Kandu7 -- Algonquin
+	Algonquin [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	TaimaTilikum -- Tekoa
+	Tekoa [color=blue fillcolor=lightblue fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	FreyaKim2 -- stillborn2001
+	stillborn2001 [color=black fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	SharkaneKim2 -- Wikie
+	Wikie [color=red fillcolor=pink fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Haida2Tilikum -- fetus2001
+	fetus2001 [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KasatkaTilikum [penwidth=6 shape=point]
+	Tilikum -- KasatkaTilikum
+	Kasatka -- KasatkaTilikum
+	KasatkaTilikum -- Nakai
+	Nakai [color=blue fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	TakaraTilikum [penwidth=6 shape=point]
+	Tilikum -- TakaraTilikum
+	Takara -- TakaraTilikum
+	TakaraTilikum -- Kohana
+	Kohana [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KatinaTilikum -- Ikaika
+	Ikaika [color=blue fillcolor=lightblue fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	FreyaKim2 -- stillborn2003
+	stillborn2003 [color=black fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	NeociaKandu7 [penwidth=6 shape=point]
+	Kandu7 -- NeociaKandu7
+	Neocia -- NeociaKandu7
+	NeociaKandu7 -- miscarriage2004
+	miscarriage2004 [color=black fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KasatkaKeet [penwidth=6 shape=point]
+	Keet -- KasatkaKeet
+	Kasatka -- KasatkaKeet
+	KasatkaKeet -- Kalia
+	Kalia [color=red fillcolor=pink fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KalinaTilikum [penwidth=6 shape=point]
+	Tilikum -- KalinaTilikum
+	Kalina -- KalinaTilikum
+	KalinaTilikum -- Skyla
+	Skyla [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KiskaKandu7 -- Athena
+	Athena [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Nootka5Kandu7 -- April
+	April [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Nootka5Kandu7 -- Neocia
+	Neocia [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KalinaKotar -- Keet
+	Keet [color=blue fillcolor=lightblue fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KaylaKeet [penwidth=6 shape=point]
+	Keet -- KaylaKeet
+	Kayla -- KaylaKeet
+	KaylaKeet -- Halyn
+	Halyn [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	TakaraTaku [penwidth=6 shape=point]
+	Taku -- TakaraTaku
+	Takara -- TakaraTaku
+	TakaraTaku -- Trua
+	Trua [color=blue fillcolor=lightblue fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KatinaTaku [penwidth=6 shape=point]
+	Taku -- KatinaTaku
+	Katina -- KatinaTaku
+	KatinaTaku -- Nalani
+	Nalani [color=red fillcolor=pink fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	UnnaKeet [penwidth=6 shape=point]
+	Keet -- UnnaKeet
+	Unna -- UnnaKeet
+	UnnaKeet -- stillborn2006
+	stillborn2006 [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	TaimaTilikum -- Malia
+	Malia [color=red fillcolor=pink fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	TaimaTilikum -- Stillborn2010
+	Stillborn2010 [color=black fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	TakaraTilikum -- Sakari
+	Sakari [color=red fillcolor=pink fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	Morgan [color=red fillcolor=pink fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KatinaTilikum -- Makaio
+	Makaio [color=blue fillcolor=lightblue fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KohanaKeto [penwidth=6 shape=point]
+	Keto -- KohanaKeto
+	Kohana -- KohanaKeto
+	KohanaKeto -- "Adán"
+	"Adán" [color=blue fillcolor=lightblue fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	WikieUlises [penwidth=6 shape=point]
+	Ulises -- WikieUlises
+	Wikie -- WikieUlises
+	WikieUlises -- Moana
+	Moana [color=blue fillcolor=lightblue fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KohanaKeto -- Victoria
+	Victoria [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	TakaraKshamenk [penwidth=6 shape=point]
+	Kshamenk -- TakaraKshamenk
+	Takara -- TakaraKshamenk
+	TakaraKshamenk -- Kamea
+	Kamea [color=red fillcolor=pink fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KasatkaKshamenk [penwidth=6 shape=point]
+	Kshamenk -- KasatkaKshamenk
+	Kasatka -- KasatkaKshamenk
+	KasatkaKshamenk -- Makani
+	Makani [color=blue fillcolor=lightblue fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	WikieValentin [penwidth=6 shape=point]
+	Valentin -- WikieValentin
+	Wikie -- WikieValentin
+	WikieValentin -- Keijo
+	Keijo [color=blue fillcolor=lightblue fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	KaliaUlises [penwidth=6 shape=point]
+	Ulises -- KaliaUlises
+	Kalia -- KaliaUlises
+	KaliaUlises -- Amaya
+	Amaya [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	TakaraKyuquot [penwidth=6 shape=point]
+	Kyuquot -- TakaraKyuquot
+	Takara -- TakaraKyuquot
+	TakaraKyuquot -- Kyara
+	Kyara [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+	MorganKeto [penwidth=6 shape=point]
+	Keto -- MorganKeto
+	Morgan -- MorganKeto
+	MorganKeto -- Ula
+	Ula [color=red fillcolor=Gainsboro fixedsize=true penwidth=2 shape=box style="filled, rounded" width=1.3]
+}
